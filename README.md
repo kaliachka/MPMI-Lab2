@@ -55,11 +55,11 @@ outputs = EfficientNetB0(include_top=True,weights=None, classes = NUM_CLASSES)(i
 
 **График метрики точности:**
 
-![3](https://user-images.githubusercontent.com/59210216/111233235-ab2ceb80-85fd-11eb-9067-96c1c57121a5.jpg)
+![5](https://user-images.githubusercontent.com/59210216/111324394-ccccb800-867b-11eb-940c-268e646453cc.jpg)
 
 **График функции потерь:**
 
-![4](https://user-images.githubusercontent.com/59210216/111233247-b2ec9000-85fd-11eb-9b9c-cd7596cf4043.jpg)
+![6](https://user-images.githubusercontent.com/59210216/111324439-d524f300-867b-11eb-9847-0c48b8f4c25d.jpg)
 
 Анализ полученных результатов:
 -------
